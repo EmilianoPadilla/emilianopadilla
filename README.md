@@ -2,7 +2,7 @@
 
 I'm Emiliano, a backend Developer based in Mexico.
  
-I have a degree in Earth Sciences and was previously working as a teacher, and now I'm completely focused on software engineering.
+I have a degree in Earth Sciences and was previously working as an educator, and now I'm completely focused and interested in software engineering.
  
 I'm passionate about creating new projects, seeing them grow and be able to eventually solve real-world problems.
 
