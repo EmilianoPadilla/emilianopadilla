@@ -1,11 +1,20 @@
-## Hi there 👋
+## Hey there! 👋
 
-I'm a backend Developer focused on building scalable APIs and database-driven applications with Python, FastAPI, PostgreSQL, SQLAlchemy, Docker, and JWT authentication.
+I'm Emiliano, a backend Developer based in Mexico.
  
-Transitioning from a background in Earth Sciences and education into software engineering through hands-on development and continuous learning.
+I have a degree in Earth Sciences and was previously working as a teacher, and now I'm completely focused on software engineering.
  
-Passionate about backend architecture, clean code, databases, and solving real-world problems through technology.
- 
+I'm passionate about creating new projects, seeing them grow and be able to eventually solve real-world problems.
+
+Here's some of the tools and software I've used for my projects:
+• Languages: Python, SQL.
+• Backend: FastAPI, REST APIs, SQLAlchemy, Pydantic.
+• Authentication: JWT, OAuth2, Password Hashing.
+• Databases: PostgreSQL, Relational Database Design, Transactions.
+• Testing: Pytest, Postman.
+• DevOps & Deployment: Docker, Docker Compose, Render, Linux, Environment variables.
+• Version Control: Git, GitHub.
+
 LinkedIn: [github.com/EmilianoPadilla](https://www.linkedin.com/in/emiliano-padilla-robles/)
 Current project: [https://emilianopadilla-ecommerce-backend.onrender.com/docs](https://emilianopadilla-ecommerce-backend.onrender.com/docs)
 
