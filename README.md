@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm a backend Developer focused on building scalable APIs and database-driven applications with Python, FastAPI, PostgreSQL, SQLAlchemy, Docker, and JWT authentication.
+ 
+Transitioning from a background in Earth Sciences and education into software engineering through hands-on development and continuous learning.
+ 
+Passionate about backend architecture, clean code, databases, and solving real-world problems through technology.
+ 
+LinkedIn: [github.com/EmilianoPadilla](https://www.linkedin.com/in/emiliano-padilla-robles/)
+Current project: [https://emilianopadilla-ecommerce-backend.onrender.com/docs](https://emilianopadilla-ecommerce-backend.onrender.com/docs)
+
 <!--
 **EmilianoPadilla/emilianopadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
